@@ -10,7 +10,7 @@ Ensure go is added to your path. In .zshrc or .bashrc:
 
 ```bash
 export GOPATH=$HOME/go
-expoer PATH=$PATH:$GOPATH/bin
+export PATH=$PATH:$GOPATH/bin
 
 ```
 
